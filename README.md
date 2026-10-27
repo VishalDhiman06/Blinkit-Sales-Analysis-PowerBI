@@ -1,4 +1,3 @@
-# Blinkit-Sales-Analysis-PowerBI
 <div align="center">
 
 # 🛒 Blinkit Sales Analysis
@@ -15,8 +14,6 @@ An interactive Power BI dashboard that analyzes **sales performance, customer sa
 
 **Problem statement:** Which products, outlet types and locations drive the most sales, and how can a retail business use data to better understand its performance and find opportunities for improvement?
 
-> ⚠️ **Disclaimer:** This is a learning project built while following a tutorial. Blinkit is used only as a theme and this project is not affiliated with or endorsed by Blinkit.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -31,7 +28,11 @@ An interactive Power BI dashboard that analyzes **sales performance, customer sa
 
 ## 📂 Data Source
 
-Practice retail sales dataset used while following a guided Power BI tutorial. A copy of the data is already included inside the `.pbix` file.
+Blinkit-themed retail grocery sales dataset, loaded into Power BI and cleaned in Power Query. It covers **8,523 item records** with these fields:
+
+- 🛍️ **Item details:** item type, fat content, item visibility
+- 🏪 **Outlet details:** outlet type, outlet size, location tier, establishment year
+- 💰 **Performance:** sales and customer rating
 
 ---
 
@@ -96,7 +97,6 @@ Practice retail sales dataset used while following a guided Power BI tutorial. A
 1. Install the free [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 2. Download the `.pbix` file from this repository
 3. Open it and use the slicers, metric switch and reset button to explore
-
 
 ---
 
